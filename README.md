@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://teobidzishvili.github.io/skilled-e-learning-landing-page/)
+- [Live Site URL](https://teobidzishvili.github.io/skilled-e-learning-landing-page/)
 
 ## My process
 
